@@ -9,6 +9,7 @@ python3 main.py data1.csv data2.csv --report payout
 ```
 
 * data1.csv, data2.csv, ... — пути к CSV-файлам.
+
 * --report payout - тип репорта либо payout, либо json_payout
 
 ## Поддержка новых отчётов
