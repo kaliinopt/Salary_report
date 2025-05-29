@@ -36,6 +36,8 @@ python3 main.py data1.csv data2.csv --report payout
 
 Console
 
+
+```plaintext 
 Marketing
 -------------------------------------------------------
 Name                 |  Hours | Rate | Payout
@@ -74,7 +76,7 @@ Mia Young            |  160.0 | $37.0 | $5920.00
 Total                |  325.0 |       | $14170.00
 
 Company Total ------------------------> $63334.00
-
+```
 
 Json
 ```json
